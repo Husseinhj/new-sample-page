@@ -1,0 +1,25 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mabna.zib",
+      "sha256_cert_fingerprints": [
+        "8C:D1:B0:0C:91:30:12:31:71:64:D5:B1:6B:81:96:8C:8D:CC:E1:81:6D:27:78:60:56:5F:7A:DD:81:A7:F3:A4",
+        "65:F1:E3:D1:2A:EC:0A:E6:01:ED:42:39:B9:0A:F4:D7:15:A9:A1:AF:5B:DD:0C:1F:6D:08:29:D5:41:62:49:FD",
+        "E7:97:FA:95:AB:97:B5:45:FF:0D:8F:81:D1:65:F2:E9:45:44:FF:68:E7:3F:31:FF:A9:1E:39:F3:AC:1E:72:78"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "check_validation"
+    ],
+    "target": {
+      "namespace": "cafebazaar_twa",
+      "package_name": "com.mabna.zib"
+    }
+  }
+]
